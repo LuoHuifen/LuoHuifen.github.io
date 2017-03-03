@@ -1,12 +1,13 @@
 ---
-  name: "Your Name"
-  position: "Your Position"
-  company: "Your Company"
-  location: "Your City, Your State"
-  email: "you@somedomain.com"
-  gravatar: "http://api.adorable.io/avatars/300/abott@adorable.png"
+  name: "Huifen Luo"
+  position: "postgraduate"
+  company: "HUST"
+  location: "WuHan, HuBei"
+  email: "358186504@qq.com"
+  gravatar: /images/thumbnails/1.jpg 
+  #"http://api.adorable.io/avatars/300/abott@adorable.png"
   bio: |
-    Your Short Bio goes here.
+    Keep it simple and stupid.
   #activate the social buttons you like by removing the comment
   social:
     google:
