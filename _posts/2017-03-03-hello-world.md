@@ -2,7 +2,7 @@
 layout: post
 tags: meta
 date: 2016-7-13 22:10
-thumbnail: /images/thumbnails/1.jpg 
+thumbnail: /images/thumbnails/logo_rabbit.jpg 
 title: My draft meta!
 published: true
 ---
