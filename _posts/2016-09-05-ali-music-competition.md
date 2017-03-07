@@ -139,43 +139,12 @@ excerpt: 离上一篇博客写了已经过去了大半年，决定还是用博�
 
 在分析单个用户的用户记录时，我突然发觉到用户操作记录与文本的相似性，并进行了这样的类比：
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border:none;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg .tg-sh4c{text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-slkj{font-family:"Lucida Console", Monaco, monospace !important;;text-align:center}
-.tg .tg-gq9a{font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;;text-align:center}
-.tg .tg-px6o{font-family:"Lucida Console", Monaco, monospace !important;;text-align:center}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 338px">
-<colgroup>
-<col style="width: 203.090909px">
-<col style="width: 51.090909px">
-<col style="width: 84.090909px">
-</colgroup>
-  <tr>
-    <th class="tg-slkj">一首歌</th>
-    <th class="tg-gq9a">&lt;=&gt;</th>
-    <th class="tg-gq9a">一个字</th>
-  </tr>
-  <tr>
-    <td class="tg-slkj">一个用户某段时间的操作记录</td>
-    <td class="tg-px6o">&lt;=&gt;</td>
-    <td class="tg-slkj">一段文字</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">一个用户的所有操作记录</td>
-    <td class="tg-sh4c">&lt;=&gt;</td>
-    <td class="tg-baqh">一篇文章</td>
-  </tr>
-</table>
+一首歌                               <==>        一个字
 
+一个用户某段时间的操作记录           <==>        一段文字
 
-| sdfjlkjs| sdfsdlf|
-|:--------|-------:|
-| sdfjlkjs| sdfsdlf|
+一个用户的所有操作记录               <==>        一篇文章
+
 
 进行这样的类比之后，所有关于自然语言处理的研究都可以应用到用户行为分析上面。如使用主题模型对用户进行聚类，使用word embedding对歌曲进行聚类，等等。
 
