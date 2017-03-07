@@ -3,24 +3,12 @@ layout: post
 tags: meta
 date: 2016-7-13 22:10
 thumbnail: /images/thumbnails/logo_rabbit.jpg 
-<<<<<<< HEAD
 title: My draft meta!
 published: true
-excerpt: 第一次使用github博客
-=======
-title: My draft meta22333!
-published: true
->>>>>>> origin/master
 ---
 
 按教程http://bily.tech/2016/03/10/build-blog-site-from-scratch/在Jekyll上按模板搭建好自己的博客以后，如何调整模板里的一些细节？例如thumbnail缩略图里placehold如何换成自己想要的图片？我们接下来要做的事就是将模板里的东西替换成自己想要的样子。
 
-<<<<<<< HEAD
-按照[教程](http://bily.tech/2016/03/10/build-blog-site-from-scratch/)搭建博客，感觉不错!
-接下来是一些小测试
-
-=======
->>>>>>> origin/master
 *emphasized，显示为斜体*
 **emphasized，显示为粗体**
 # title1 

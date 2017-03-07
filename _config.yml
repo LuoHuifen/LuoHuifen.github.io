@@ -7,7 +7,11 @@ logo_location: "https://placeholdit.imgix.net/~text?txtsize=30&bg=F8F8F8&txtclr=
 #baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+<<<<<<< HEAD
 url: "https://LuoHuifen.github.io"
+=======
+url: "http://LuoHuifen.gitbub.io"
+>>>>>>> origin/master
 
 # The port used for local hosting
 port: 3333
