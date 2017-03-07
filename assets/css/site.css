@@ -63,7 +63,7 @@ body {
 
 }
 .blog-short .excerpt{
-  min-height:100px;
+  min-height:10px;
 }
 .margin10{margin-bottom:10px; margin-right:10px;}
 

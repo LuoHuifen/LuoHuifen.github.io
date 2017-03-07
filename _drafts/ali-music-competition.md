@@ -1,11 +1,11 @@
 ---
 layout: post
-tags: project
+tags: project python
 date: 2016-9-05 22:10
 thumbnail: /images/thumbnails/logo_rabbit.jpg 
 title: 阿里流行音乐预测大赛
 published: true
-excerpt: 数据分析+心得体会
+excerpt: 离上一篇博客写了已经过去了大半年，决定还是用博客记录下自己的项目经历。这次参加天池大赛感触很深，一是团队协作很重要，二是科研与实际应用还是有很大不同的。我在本次项目中主要承担数据分析的职责，做了两件事：Time Series Decomposition, word embedding。
 ---
 ### 问题介绍 ###
 这是阿里天池的一个比赛，比赛给出了虾米音乐上50个艺人歌曲的基本信息如歌曲发行时间、歌曲的初始播放次数、歌曲语言等，以及与这些歌曲相关的过去6个月的用户播放记录，如用户播放时间、用户行为类型（播放、下载、收藏），要求根据这些数据，预测这50个艺人在接下来2个月每天的播放量。
