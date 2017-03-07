@@ -4,8 +4,8 @@
   company: "HUST"
   location: "WuHan, HuBei"
   email: "358186504@qq.com"
-  gravatar: /images/thumbnails/logo_rabbit.jpg 
-  #"http://api.adorable.io/avatars/300/abott@adorable.png"
+  gravatar: "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489501907&di=c82444d7a0ee4d1c389b5d77eea40767&imgtype=jpg&er=1&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201605%2F31%2F20160531171559_aQcSx.thumb.700_0.jpeg"
+  #/images/thumbnails/logo_rabbit.jpg 
   bio: |
     Keep it simple and stupid.
   #activate the social buttons you like by removing the comment
