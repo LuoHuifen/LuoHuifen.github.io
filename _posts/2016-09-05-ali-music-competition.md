@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: project python
-date: 2016-8-05 22:10
+date: 2016-9-05 22:10
 title: 阿里流行音乐预测大赛——数据分析
 published: true
 excerpt: 离上一篇博客写了已经过去了大半年，决定还是用博客记录下自己的项目经历。这次参加天池大赛感触很深，一是团队协作很重要，二是科研与实际应用还是有很大不同的。我在本次项目中主要承担数据分析的职责，做了两件事：Time Series Decomposition, word embedding。
